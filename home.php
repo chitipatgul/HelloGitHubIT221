@@ -3,8 +3,12 @@
 		<tr>
 			<td width="23" rowspan="2">&nbsp;</td>
 			<td height="119" colspan="2" bgcolor="#006600">
-				<h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนท์</font></center></h1>
-				<?php include "Date.php";?>
+				<h1>
+					<center>
+						<font color="#FFFFFF">พรชัยอพาร์ตเมนท์</font>
+					</center>
+				</h1>
+				<?php include "Date.php"; ?>
 			</td>
 			<td width="43" rowspan="2">&nbsp;</td>
 		</tr>
@@ -18,17 +22,20 @@
 					อาทิ WIFI อินเทอร์เน็ตความเร็วสูงทุกห้อง มีพัดลม และเครื่องปรับอากาศให้เลือก มีทีวี
 					คอมพิวเตอร์ให้เช่า
 				<p>
-					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถาม</a>	
+					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถาม</a>
 			</td>
-			<td width="190" bgcolor="#FFFF66"><ul>
-				<li><a href="home.php">หน้าแรกกกกกกก</li>
-				<li><a href="room.php">ห้องพัก&ราคา</li>
-				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่อ</li>
-				</ul><p>
-				<?php include "login_form.php";?>
+			<td width="190" bgcolor="#FFFF66">
+				<ul>
+					<li><a href="home.php">หน้าแรกกกกกกก</li>
+					<li><a href="room.php">ห้องพัก&ราคา</li>
+					<li><a href="facility.php">สิ่งอำนวยความสะดวก</li>
+					<li><a herf="guest.php">สมุดเยี่ยม</li>
+					<li><a href="contact.php">ติดต่อ</li>
+				</ul>
+				<p>
+					<?php include "login_form.php"; ?>
 			</td>
 		</tr>
 	</table>
-<body>
 
+	<body>
