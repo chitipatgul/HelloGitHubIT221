@@ -24,7 +24,7 @@
 				<p>
 					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถาม</a>
 			</td>
-			<td width="190" bgcolor="#FFFF66">
+			<td width="190" bgcolor="#cccccc">
 				<ul>
 					<li><a href="home.php">หน้าแรก</li>
 					<li><a href="room.php">ห้องพัก&ราคา</li>
